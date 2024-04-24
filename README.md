@@ -1,2 +1,2 @@
 ## Expertise
-LLMs Evaluation, LLMs Social Bias debias, Model pruning, Model Quantification, Knowledge distillation, Model Fusion, Interpretability of LLMs
+LLMs Evaluation, LLMs Social Bias debias, LLMs compression, Interpretability of LLMs
